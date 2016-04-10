@@ -1,0 +1,82 @@
+body {
+  color: #386EA5;
+  width: 980px;
+  margin: 0 auto;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;;
+}
+
+.wrapper {
+  border: 5px solid #386EA5;
+  padding: 10px;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  border-radius: 50%;
+  height: 180px;
+  width: auto;
+}
+
+h2 {
+  background: #386EA5;
+  border-bottom: thick solid lightgray;
+  color: #FFFFFF;
+  padding: .8em;
+}
+
+.contact {
+  color: #FFFFFF;
+  background: #386EA5;
+  border-bottom: thick solid lightgray;
+  text-align: center;
+  height: 8em;
+  padding-top: 1em;
+}
+
+.email {
+  background: #FFFFFF;
+  color: #386EA5;
+  border-bottom: thin solid gray;
+  padding: 10px 40px;
+  text-decoration: none;
+}
+
+.email:hover, .email:focus {
+  text-docration: none;
+  color: #FFFFFF;
+  background: #AEC8DE;
+}
+
+section h3 {
+  padding-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 1.8em;
+}
+
+footer img{
+  margin: 10px;
+}
+
+section p {
+  padding: 10px;
+  padding-bottom: 40px;
+  font-size: 1.3em;
+}
+
+section ul {
+  padding-bottom: 40px;
+}
+
+section p a{
+  color: #386EA5;
+}
+
+section p a:hover {
+  color: #AEC8DE;
+}
