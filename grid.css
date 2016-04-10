@@ -1,39 +1,37 @@
 #yellow {
   background: #FFFF00;
-  height: 20em;
 }
 
 #darkred {
   background: #A52A2A;
-  height: 20em;
 }
 
 #blue {
   background: #0000FF;
-  height: 20em;
 }
 
 #red {
   background: #FF0000;
-  height: 20em;
 }
 
 #green {
   background: green;
-  height: 20em;
 }
 
 #pink {
   background: pink;
-  height: 20em;
 }
 
 #purple {
   background: purple;
-  height: 20em;
 }
 
 #cyan {
   background: cyan;
+  height: 60em;
+}
+
+/*Height*/
+#purple, #pink, #green, #red, #blue, #darkred, #yellow {
   height: 20em;
 }
